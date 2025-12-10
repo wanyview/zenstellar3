@@ -1,0 +1,1 @@
+Updates build script to use 'tsc -b' (build mode) which handles project references correctly

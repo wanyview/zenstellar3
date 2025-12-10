@@ -1,0 +1,1 @@
+Fixes TS6305 error by restricting 'include' to 'src' only, preventing conflict with vite.config.ts
